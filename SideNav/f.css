@@ -31,7 +31,7 @@ body{
 .navmenu ul::after{
     content: "";
     position: absolute;
-    width: 3px;
+    width: 0px;
     height: calc(100% - 61px);
     background: white;
     left: 40px;
